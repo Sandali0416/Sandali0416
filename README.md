@@ -4,6 +4,12 @@
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Sandali0416/Sandali0416/main/pic.webp" alt="Sandali Subagya" width="200"/>
+</div>
+
+---
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Empowering+Decisions+Through+Data;Machine+Learning+Practitioner;Transforming+Complex+Data+into+Actionable+Insights;Front-End+Coder+and+Data+Visualizer" alt="Typing SVG" />
 </div>
 
@@ -80,4 +86,5 @@
 </div>
 
 ---
+
 
