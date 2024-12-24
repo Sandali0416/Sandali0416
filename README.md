@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#4CAF50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm Sandali Subagya</h1>
-<h3 align="center" style="color:#FF5722; font-family: 'Courier New', Courier, monospace;">A Data Enthusiast Passionate About Uncovering Insights and Building Impactful Solutions</h3>
+<h3 align="center" style="color:#FF5722; font-family: 'Courier New', Courier, monospace;"> A Data Enthusiast Passionate About Uncovering Insights and Building Impactful Solutions</h3>
 
 ---
 
@@ -15,13 +15,13 @@
 
 ---
 
-### 🌟 About Me  
-- 🌱 **Currently Learning**: Advanced Machine Learning, Power BI, and SQL Optimization.  
-- 👯 **Collaborating On**: Projects involving predictive modeling, data visualization, and actionable insights.  
-- 🤝 **Seeking Help With**: Refining machine learning algorithms and integrating models with business applications.  
-- 💬 **Ask Me About**: Data analysis, visualization, and coding techniques for real-world problem-solving.  
-- 📫 **Reach Me At**: [subagya0416@gmail.com](mailto:subagya0416@gmail.com)  
-- ⚡ **Fun Fact**: I find patterns in data fascinating, and solving coding challenges feels like cracking puzzles!  
+###  About Me  
+   🤓 **Currently Learning**: Advanced Machine Learning, Power BI, and SQL Optimization.  
+   🫂 **Collaborating On**: Projects involving predictive modeling, data visualization, and actionable insights.  
+   🤝 **Seeking Help With**: Refining machine learning algorithms and integrating models with business applications.  
+   💬 **Ask Me About**: Data analysis, visualization, and coding techniques for real-world problem-solving.  
+   🪪 **Reach Me At**: [subagya0416@gmail.com](mailto:subagya0416@gmail.com)  
+   🪄 **Fun Fact**: I find patterns in data fascinating, and solving coding challenges feels like cracking puzzles!  
 
 ---
 
@@ -76,11 +76,11 @@
 ---
 
 ### 🎯 Fun Fact  
-> Every dataset has a story to tell; I enjoy discovering it through creative exploration and analysis!
+> Every dataset has a story to tell. I enjoy discovering it through creative exploration and analysis!
 
 ---
 
-### ✨   
+###    
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Data+Science+is+My+Superpower;Machine+Learning+is+the+Future;I+Live+for+Data+Visualization;Transforming+Data+into+Decisions" alt="Animated Showcase" />
 </div>
