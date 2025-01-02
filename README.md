@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#FF5722; font-family: 'Courier New', Courier, monospace;">A Data Enthusiast Passionate About Uncovering Insights and Building Impactful Solutions</h3>
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" style="border-radius: 10px; margin: 10px;">
+  <img align="center" alt="Coding" width="400" src="pic.jpg" style="border-radius: 10px; margin: 10px;">
 </div>
 
 <hr style="border: 1px solid #ccc;">
@@ -34,6 +34,7 @@
   <a href="https://linkedin.com/in/sandali-subagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandali subagya" height="40" width="40" /></a>
   <a href="https://instagram.com/sandalisubagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandali subagya" height="40" width="40" /></a>
 </p>
+ <img align="right" alt="Coding" width="225" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" style="border-radius: 0px; margin: 0px;">
 
 <hr style="border: 1px solid #ccc;">
 
